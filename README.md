@@ -95,56 +95,18 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=rasel24680&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
-## 📈 Contribution Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rasel24680&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
-
-</div>
 
 ---
 
-## 🎯 Current Focus
 
-```javascript
-const mezabur = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "Java", "C", "C++", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "ui/ux", "design"],
-    technologies: {
-        frontEnd: {
-            js: ["Vanilla JS"],
-            css: ["CSS3", "Flexbox", "Grid"]
-        },
-        design: ["Figma", "Canva", "Photoshop", "Blender"],
-        databases: ["MySQL"],
-        misc: ["Git", "GitHub"]
-    },
-    currentFocus: "Building user-centric applications",
-    funFact: "I love turning ideas into reality through code and design!"
-};
 ```
 
 ---
 
-## 🎨 Random Dev Quote
-
-<div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-</div>
 
 ---
 
