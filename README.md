@@ -38,7 +38,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasel24680&show_icons=true&locale=en&layout=compact&hide_border=true&count_private=true&include_all_commits=true&hide=html,css&langs_count=10" alt="rasel24680" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasel24680&show_icons=true&locale=en&layout=compact&hide_border=true&count_private=true" alt="rasel24680" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasel24680&show_icons=true&locale=en&hide_border=true&count_private=true" alt="rasel24680" /></p>
 
