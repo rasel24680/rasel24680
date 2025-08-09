@@ -1,45 +1,167 @@
-![img](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Md.Mezabur Rahman Rasel</h1>
-<h3 align="center">A passionate CS student from Bangladesh</h3>
+# 👋 Hi there, I'm **Md. Mezabur Rahman Rasel**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel24680&label=Profile%20views&color=0e75b6&style=flat" alt="rasel24680" /> </p>
+<div align="center">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Header Banner" width="800"/>
+</div>
 
-- 🔭 I'm currently working on [EasyNeeds](https://github.com/RefatHex/EasyNeedsAOOP)
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Passionate+CS+Student+from+Bangladesh+🇧🇩;Full+Stack+Developer+in+Making;UI%2FUX+Design+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+  
+  <img src="https://komarev.com/ghpvc/?username=rasel24680&label=Profile%20views&color=2196F3&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rasel24680?label=Followers&style=for-the-badge&color=2196F3" alt="GitHub Followers" />
+  
+</div>
 
-- 🌱 I'm currently learning **Blender, JavaScript**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/rasel24680](https://github.com/rasel24680)
+## 🚀 About Me
 
-- 💬 Ask me about **CSS, HTML, Java, C, C++, Figma, Canva**
+- 🔭 Currently working on **[EasyNeeds](https://github.com/RefatHex/EasyNeedsAOOP)** - Making life easier with technology
+- 🌱 Expanding my skills in **Blender, JavaScript, and Modern Web Technologies**
+- 💡 Passionate about creating intuitive user experiences and clean code
+- 🎨 Love combining creativity with technology through design and development
+- 📫 Reach me at: **mezabur284352@gmail.com**
+- 💬 Ask me about: **Frontend Development, UI/UX Design, Programming**
 
-- 📫 How to reach me **mezabur284352@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mezabur-rahman-rasel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mezabur-rahman-rasel" height="30" width="40" /></a>
-<a href="https://fb.com/mezabur1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mezabur1000" height="30" width="40" /></a>
-<a href="https://instagram.com/mrr_rasssel75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrr_rasssel75" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mrasel223247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrasel223247" height="30" width="40" /></a>
-<a href="https://discord.gg/744545769503195216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="744545769503195216" height="30" width="40" /></a>
+## 🌐 Connect With Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mezabur-rahman-rasel)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mezabur1000)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mrr_rasssel75)
+  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mrasel223247)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/744545769503195216)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+### Frontend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasel24680&show_icons=true&locale=en&layout=compact&hide_border=true&count_private=true" alt="rasel24680" /></p>
+### Design & Creative Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasel24680&show_icons=true&locale=en&hide_border=true&count_private=true" alt="rasel24680" /></p>
+### Database & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel24680&hide_border=true" alt="rasel24680" /></p>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasel24680&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasel24680&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasel24680&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasel24680&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=rasel24680&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📈 Contribution Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rasel24680&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const mezabur = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "Java", "C", "C++", "HTML", "CSS"],
+    askMeAbout: ["web dev", "tech", "ui/ux", "design"],
+    technologies: {
+        frontEnd: {
+            js: ["Vanilla JS"],
+            css: ["CSS3", "Flexbox", "Grid"]
+        },
+        design: ["Figma", "Canva", "Photoshop", "Blender"],
+        databases: ["MySQL"],
+        misc: ["Git", "GitHub"]
+    },
+    currentFocus: "Building user-centric applications",
+    funFact: "I love turning ideas into reality through code and design!"
+};
+```
+
+---
+
+## 🎨 Random Dev Quote
+
+<div align="center">
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💫 *"Code is like humor. When you have to explain it, it's bad."* 
+  
+  **Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
+  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
