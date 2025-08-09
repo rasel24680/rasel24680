@@ -87,43 +87,5 @@
 
 </div>
 
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasel24680&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-
-</div>
-
----
 
 
-
----
-
-
----
-
-
-```
-
----
-
-
----
-
-<div align="center">
-  
-  ### 💫 *"Code is like humor. When you have to explain it, it's bad."* 
-  
-  **Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
-  
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
-</div>
-
----
-
-<div align="center">
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
